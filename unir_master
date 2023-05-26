@@ -1,0 +1,5 @@
+git clone "C:\Users\ncorrale\OneDrive - Grupo Bancolombia\Documents\Learn\Maestria Data Scientist\Cursos\Técnicas de Inteligencia Artificial\Activity 02\Dataset of Pets\dataset_pets.csv"
+
+git commit -m "Agregar archivo CSV de pets para actividad 02 TIA"
+
+git push origin main
